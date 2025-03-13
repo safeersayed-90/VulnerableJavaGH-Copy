@@ -1,6 +1,6 @@
 public class CredentialsManager {
   public void credentialExp {
-    String fruit="";
+    String fruit="apple";
     String password = "Anjali";
   }
 }
